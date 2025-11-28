@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hello, I'm 星仔, a pirate.  
+Hello, I'm Xing. 
+- 🔭 I'm currently working on Computational Electromagnetics (MoM, Fem, Sbr and Hybrid algorithm), High Performance Computing and CAE software. All of the algorithms are implemented on GPUs.
+- 📫 How to reach me: muxing01@126.com
+
+
